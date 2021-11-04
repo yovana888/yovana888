@@ -67,6 +67,9 @@
     <a href="" target="_blank">
        <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"  width="30" height="30"/>
     </a>
+     <a href="" target="_blank">
+       <img src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png"  width="30" height="30"/>
+    </a>
 </p>
 
 
