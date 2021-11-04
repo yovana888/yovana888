@@ -3,11 +3,9 @@
 
  <img align="right" alt="GIF" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" width="400" height="300" />
 
-
-## I'm FrontEnd Developer
-💻 I'm currently working on web applications.
-✅ I like web design as well as handling logic when programming
-✍ I tend to think more about how to improve the user experience in the applications that I develop
+-💻 I'm FrontEnd Developer and currently working on web applications.
+-✅ I like web design as well as handling logic when programming
+-✍ I tend to think more about how to improve the user experience in the applications that I develop
 
 
 ### Talk with me:
