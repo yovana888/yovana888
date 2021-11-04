@@ -9,9 +9,7 @@
 
 
 ### Talk with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/yovana-velasquez-cruz-a788bb142/" />][linkedin]
 
-<br />
 
 ### Languages and Tools:
 
